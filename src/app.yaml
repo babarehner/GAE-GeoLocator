@@ -1,0 +1,11 @@
+# application name must be in all lowercase
+application: dr8v2mjj
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /.*
+  script: geolocator.app
+# .app has to match WSGI in .py file
