@@ -1,3 +1,3 @@
 GAE-GeoLocator
 ==============
-simple GAE GeoLocator file
+simple GAE GeoLocator python file
